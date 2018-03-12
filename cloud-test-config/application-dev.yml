@@ -1,0 +1,8 @@
+sweb:
+  name: dev-config
+  config:
+    requestLogin: true
+    v: 1.0
+    boot: localhost
+  base:
+    test: 111s
