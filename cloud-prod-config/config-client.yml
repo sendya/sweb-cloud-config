@@ -1,0 +1,7 @@
+sweb:
+ config:
+  name: test1
+  requestLogin: true
+  v: 1
+ base:
+  name: test2
